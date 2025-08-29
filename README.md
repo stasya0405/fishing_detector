@@ -30,12 +30,12 @@
 
 - scikit-learn
 
-- nltk (русские стоп-слова)
+- nltk 
 
 - transformers + torch (BERT)
 
-- tkinter (GUI)
+- tkinter 
 
-matplotlib (графики)
+- matplotlib 
 
-python-Levenshtein
+- python-Levenshtein
